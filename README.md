@@ -2,6 +2,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/areslane67/areslane67)
 ![pv](https://pageview.vercel.app/?github_user=areslane67)
 
+
+
 ![areslane67 GitHub stats](https://github-readme-stats.vercel.app/api?username=areslane67&show_icons=true&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areslane67)](https://github.com/anuraghazra/github-readme-stats)
 
 # <p align="center"><span>📚 Skills</span></p>
@@ -26,9 +28,10 @@
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a></td>
             <td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
           
-            
-		</tr>
-	</tbody>
+</br>
+	<br>
+
+		
 </table>
 
 <br>
