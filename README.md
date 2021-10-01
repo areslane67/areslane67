@@ -18,7 +18,6 @@
             <td align="center"><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td>
             <td align="center"><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td>
             <td align="center"><a href="https://en.wikipedia.org/wiki/SQL">SQL</a></td>
-			<td align="center"><a href="https://visualstudio.microsoft.com/">Visual Studio</a></td>
             <td align="center"><a href="https://www.adobe.com/products/photoshop.html">Photoshop</a></td>
             <td align="center"><a href="https://en.wikipedia.org/wiki/Git">Git</a></td>
 		</tr>
