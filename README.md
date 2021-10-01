@@ -25,7 +25,6 @@
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a></td>
             <td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
-            <td align="center"><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a></td>
             <td align="center"><a href="https://www.adobe.com/products/illustrator.html">Illustrator</a></td>
             <td align="center"><a href="https://code.visualstudio.com/">VS Code</a></td>
 		</tr>
