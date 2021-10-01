@@ -21,12 +21,13 @@
 			<td align="center"><a href="https://visualstudio.microsoft.com/">Visual Studio</a></td>
             <td align="center"><a href="https://www.adobe.com/products/photoshop.html">Photoshop</a></td>
             <td align="center"><a href="https://en.wikipedia.org/wiki/Git">Git</a></td>
-			            <td align="center"><a href="https://code.visualstudio.com/">VS Code</a></td>
-
 		</tr>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a></td>
             <td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
+            <td align="center"></td>
+            <td align="center"><a href="https://www.adobe.com/products/illustrator.html">Illustrator</a></td>
+            <td align="center"><a href="https://code.visualstudio.com/">VS Code</a></td>
 		</tr>
 	</tbody>
 </table>
