@@ -5,8 +5,8 @@
  <img src="https://img.shields.io/github/last-commit/areslane67/areslane67" alt="areslane67" />
  <img src="https://pageview.vercel.app/?github_user=areslane67" /> </p>
  
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=areslane67&show_icons=true&theme=github_light" alt="areslane67" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areslane67" alt="areslane67" /></p>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=areslane67&show_icons=true&theme=github_dark" alt="areslane67" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areslane67&show_icons=true&theme=github_dark" alt="areslane67" /></p>
  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=areslane67" alt="areslane67" /></a> </p>
 
@@ -56,8 +56,10 @@
 
   <details>
   <h1 align="center"> If u want mor info from me </h1>
+	
+	
+	
 
-	  
 ![forthebadge](https://forthebadge.com/images/badges/ages-18.svg)
 ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)
 ![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)
