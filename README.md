@@ -50,7 +50,26 @@
 
 
 
-<img height="200" alt="" width="200%" src="https://raw.githubusercontent.com/areslane67/areslane67/main/giphy%20(4).gif" />
+<img height="200" alt="" width="200%" src="https://raw.githubusercontent.com/areslane67/areslane67/main/images/giphy%20(4).gif" />
+
+
+
+  <details>
+  <h1 align="center"> If u want mor info from me </h1>
+
+	  
+![forthebadge](https://forthebadge.com/images/badges/ages-18.svg)
+![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)
+![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)
+![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)
+![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)
+	  
+	  
+	  
+	  
+ </details>
+
+	
 
 
 			 
